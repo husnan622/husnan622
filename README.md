@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**husnan622/husnan622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=husnan622&label=Views&color=blue&style=plastic" alt="husnan622" /> </p>
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+![Husnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=husnan622&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husnan622&layout=true&theme=radical)](https://github.com/husnan622/github-readme-stats)
+
+<div align="center">
+
+</div>
