@@ -14,6 +14,8 @@
 
 ![Husnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=husnan622&show_icons=true&theme=radical)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?husnan622" frameborder="0"></iframe>
+
 <div align="center">
 
 </div>
