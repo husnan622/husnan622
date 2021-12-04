@@ -14,11 +14,7 @@
 
 ![Husnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=husnan622&show_icons=true&theme=radical)
 
-<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?husnan622" frameborder="0"></iframe> -->
-
-<!-- <iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><script src="https://ionicabizau.github.io/github-profile-languages/api.html?husnan622"></script></body></html>'></iframe>  -->
-
-[![Watch the video](https://user-images.githubusercontent.com/57633103/144716669-175a4fbf-6c4c-46a3-a13c-60b0fe149c7c.png)](https://ionicabizau.github.io/github-profile-languages/api.html?husnan622)
+<!-- https://ionicabizau.github.io/github-profile-languages/api.html?husnan622 -->
 
 <div align="center">
 
