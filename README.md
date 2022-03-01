@@ -1,7 +1,6 @@
 ### Hi there 👋
-<div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnan622&label=Views&color=blue&style=plastic" alt="husnan622" /> </p>
-</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=husnan622&label=Views&color=blue&style=plastic" alt="husnan622" /> </p>
 
 **Languages and Tools:**  
 
