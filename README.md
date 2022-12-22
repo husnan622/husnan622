@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am highly passionate about Artificial Intelligence, Machine Learning and Robotics. 
+🔭 I am highly passionate about Artificial Intelligence, Machine Learning, Deep Learning and Robotics. 
 
 
 ## 🌐 Socials:
